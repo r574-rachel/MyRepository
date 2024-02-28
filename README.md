@@ -1,1 +1,3 @@
 # MyRepository
+
+* Bullet point
